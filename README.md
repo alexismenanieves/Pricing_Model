@@ -1,4 +1,4 @@
-#README
+# README
 Este proyecto desarrolla el análisis y modelado de precios óptimos en 
 base a los datos de ventas de 12 productos en un supermercado, en un 
 periodo de un poco más de dos años.
